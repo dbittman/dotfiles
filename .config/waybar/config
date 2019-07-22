@@ -1,0 +1,46 @@
+{
+  "layer": "top", // Waybar at top layer
+  "position": "bottom", // Waybar position (top|bottom|left|right)
+  //"height": 20, // Waybar height (to be removed for auto height)
+  // Choose the order of the modules
+  "modules-left": ["sway/workspaces", "sway/mode", "sway/window"],
+  "modules-center": [],
+  "modules-right": ["memory", "cpu", "clock", "pulseaudio", "tray"],
+  // Module config
+  "sway/mode": {
+    "tooltip": false,
+    "format": "<span weight=\"bold\">{}</span>"
+  },
+  "memory": {
+	"format": "{percentage}% "
+  },
+  "cpu": {
+    "interval": 5,
+    "tooltip": false,
+    "format": "{usage}% ﬙"
+  },
+  "clock": {
+    "tooltip": false,
+    "format": "{:%a, %b %d %Y %I:%M%P}"
+  },
+  "tray": {
+    "tooltip": false,
+    // "icon-size": 21,
+    "spacing": 10
+  },
+  "pulseaudio": {
+	"tooltip":false,
+    "format": "{volume}% {icon}",
+    "format-bluetooth": "{volume}% {icon}",
+    "format-muted": "",
+    "format-icons": {
+        "headphones": "",
+        "phone": "",
+        "portable": "",
+        "car": "",
+        "default": ["", ""]
+    },
+    "scroll-step": 5,
+    "on-click": "pavucontrol"
+}
+}
