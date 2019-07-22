@@ -1,0 +1,14 @@
+# -- THEME AUTO-WRITTEN DO NOT EDIT
+include "/home/dbittman/.themes/Fantome/gtk-2.0/gtkrc"
+
+style "user-font" {
+	font_name = "Fira Sans 11"
+}
+
+widget_class "*" style "user-font"
+
+gtk-font-name="Fira Sans 11"
+
+include "/home/dbittman/.gtkrc.mine"
+
+# -- THEME AUTO-WRITTEN DO NOT EDIT
