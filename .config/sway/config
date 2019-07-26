@@ -233,3 +233,6 @@ exec_always {
 
 exec "systemctl --user import-environment; systemctl --user start sway-session.target"
 
+for_window [app_id="qemu"] floating enable
+
+
