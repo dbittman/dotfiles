@@ -221,7 +221,7 @@ bar {
 
 include @sysconfdir@/sway/config.d/*
 
-exec mako
+exec mako --font "Sans 10" --default-timeout 5000
 
 set $gnome-schema org.gnome.desktop.interface
 
