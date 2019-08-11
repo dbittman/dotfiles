@@ -82,6 +82,8 @@ include /home/dbittman/.config/sway/per-machine
     
 	bindsym Ctrl+Alt+Delete exec swaylock -c 000000 -i HDMI-A-1:/home/dbittman/Pictures/Wallpapers/Slideshow/MVIMG_20190711_131303.jpg -s fill -e
 
+	bindsym Ctrl+Shift+Alt+Delete exec sh -c "swaylock -c 000000 -i HDMI-A-1:/home/dbittman/Pictures/Wallpapers/Slideshow/MVIMG_20190711_131303.jpg -s fill -e -f ; systemctl suspend"
+
     # Exit sway (logs you out of your Wayland session)
     bindsym $mod+Shift+e exec swaynag -t warning -m 'You pressed the exit shortcut. Do you really want to exit sway? This will end your Wayland session.' -b 'Yes, exit sway' 'swaymsg exit'
 #
