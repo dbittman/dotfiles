@@ -75,8 +75,8 @@ include /home/dbittman/.config/sway/per-machine
     # mouse button for dragging.
     floating_modifier $mod normal
 
-	bindsym Print exec maim -s "/home/dbittman/Pictures/Screenshot-$(date +%s).png"
-	bindsym Shift+Print exec maim "/home/dbittman/Pictures/Screenshot-$(date +%s).png"
+	bindsym --release Print exec grim -g \"$(slurp)" "/home/dbittman/Pictures/Screenshot-$(date +%s).png"
+
     # Reload the configuration file
     bindsym $mod+Shift+c reload
     
