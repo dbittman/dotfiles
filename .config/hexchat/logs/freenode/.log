@@ -1,0 +1,43 @@
+**** BEGIN LOGGING AT Fri May 11 10:11:10 2018
+
+May 11 10:11:10 *	Connecting to chat.freenode.net (130.185.232.126:6697)
+May 11 10:11:11 *	* Certification info:
+May 11 10:11:11 *	  Subject:
+May 11 10:11:11 *	    CN=hitchcock.freenode.net
+May 11 10:11:11 *	  Issuer:
+May 11 10:11:11 *	    C=US
+May 11 10:11:11 *	    O=Let's Encrypt
+May 11 10:11:11 *	    CN=Let's Encrypt Authority X3
+May 11 10:11:11 *	  Public key algorithm: rsaEncryption (4096 bits)
+May 11 10:11:11 *	  Sign algorithm sha256WithRSAEncryption
+May 11 10:11:11 *	  Valid since Apr 16 05:02:15 2018 GM to Jul 15 05:02:15 2018 GM
+May 11 10:11:11 *	* Cipher info:
+May 11 10:11:11 *	  Version: TLSv1.2, cipher ECDHE-RSA-AES256-GCM-SHA384 (256 bits)
+May 11 10:11:11 *	Connected. Now logging in.
+**** BEGIN LOGGING AT Fri Jun  1 12:10:30 2018
+
+Jun 01 12:10:30 *	dbittman sets mode +Z on dbittman
+Jun 01 12:10:30 *	dbittman sets mode +i on dbittman
+**** ENDING LOGGING AT Fri Jun  1 12:10:36 2018
+
+**** BEGIN LOGGING AT Mon Apr 22 14:56:11 2019
+
+Apr 22 14:56:11 *	dbittman is already in use. Retrying with dbittman_...
+Apr 22 14:56:12 *	dbittman_ sets mode +Z on dbittman_
+Apr 22 14:56:12 *	dbittman_ sets mode +i on dbittman_
+Apr 22 14:56:12 -freenode-connect-	Welcome to freenode. To protect the network all new connections will be scanned for vulnerabilities. This will not harm your computer, and vulnerable hosts will be notified.
+Apr 22 14:56:12 *	Received a CTCP VERSION from freenode-connect
+Apr 22 15:04:30 *	Disconnected ()
+**** ENDING LOGGING AT Mon Apr 22 15:04:30 2019
+
+**** BEGIN LOGGING AT Mon Apr 22 15:04:41 2019
+
+Apr 22 15:04:41 *	dbittman_ is already in use. Retrying with dbittman_...
+Apr 22 15:04:42 *	dbittman_ is already in use. Retrying with dbittman__...
+Apr 22 15:04:43 *	dbittman__ sets mode +Z on dbittman__
+Apr 22 15:04:43 *	dbittman__ sets mode +i on dbittman__
+Apr 22 15:04:43 -freenode-connect-	Welcome to freenode. To protect the network all new connections will be scanned for vulnerabilities. This will not harm your computer, and vulnerable hosts will be notified.
+Apr 22 15:04:43 *	Received a CTCP VERSION from freenode-connect
+Apr 22 17:14:49 -NickServ-	This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+**** ENDING LOGGING AT Mon Apr 22 17:15:36 2019
+

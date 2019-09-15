@@ -1,0 +1,5 @@
+T 1555698085 19*	Now talking on 22#fiownefiwef
+T 1555698085 22*	26barjavel.freenode.net sets mode 24+n on 22#fiownefiwef
+T 1555698085 22*	26barjavel.freenode.net sets mode 24+s on 22#fiownefiwef
+T 1555698094 >18NickServ<	identify ****
+T 1555698095 -18NickServ-	You are now identified for dbittman.

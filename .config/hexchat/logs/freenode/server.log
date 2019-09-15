@@ -1,0 +1,65 @@
+**** BEGIN LOGGING AT Fri May 11 10:11:10 2018
+
+May 11 10:11:10 *	Looking up chat.freenode.net
+**** BEGIN LOGGING AT Fri May 11 10:12:27 2018
+
+May 11 10:12:27 *	Looking up irc.freenode.net
+May 11 10:12:27 *	Connecting to chat.freenode.net (149.56.134.238:6697)
+May 11 10:12:28 *	* Certification info:
+May 11 10:12:28 *	  Subject:
+May 11 10:12:28 *	    CN=cherryh.freenode.net
+May 11 10:12:28 *	  Issuer:
+May 11 10:12:28 *	    C=US
+May 11 10:12:28 *	    O=Let's Encrypt
+May 11 10:12:28 *	    CN=Let's Encrypt Authority X3
+May 11 10:12:28 *	  Public key algorithm: rsaEncryption (4096 bits)
+May 11 10:12:28 *	  Sign algorithm sha256WithRSAEncryption
+May 11 10:12:28 *	  Valid since May  7 05:03:38 2018 GM to Aug  5 05:03:38 2018 GM
+May 11 10:12:28 *	* Cipher info:
+May 11 10:12:28 *	  Version: TLSv1.2, cipher DHE-RSA-AES256-GCM-SHA384 (256 bits)
+May 11 10:12:28 *	Connected. Now logging in.
+May 11 10:12:28 *	*** Looking up your hostname...
+May 11 10:12:28 *	*** Checking Ident
+May 11 10:12:28 *	*** No Ident response
+May 11 10:12:28 *	*** Found your hostname
+May 11 10:12:28 *	Capabilities supported: account-notify extended-join identify-msg multi-prefix sasl
+May 11 10:12:28 *	Capabilities requested: account-notify extended-join identify-msg multi-prefix 
+May 11 10:12:28 *	dbittman is already in use. Retrying with dbittman_...
+May 11 10:12:28 *	Capabilities acknowledged: account-notify extended-join identify-msg multi-prefix 
+**** ENDING LOGGING AT Fri May 11 10:12:28 2018
+
+**** BEGIN LOGGING AT Mon Apr 22 17:15:33 2019
+
+Apr 22 17:15:33 *	Looking up irc.freenode.net
+Apr 22 17:15:33 *	Connecting to chat.freenode.net (185.30.166.38:6697)
+Apr 22 17:17:42 *	* Subject: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Apr 22 17:17:42 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Apr 22 17:17:42 *	* Subject: /C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+Apr 22 17:17:42 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Apr 22 17:17:42 *	* Subject: /CN=orwell.freenode.net
+Apr 22 17:17:42 *	* Issuer: /C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+Apr 22 17:17:43 *	* Certification info:
+Apr 22 17:17:43 *	  Subject:
+Apr 22 17:17:43 *	    CN=orwell.freenode.net
+Apr 22 17:17:43 *	  Issuer:
+Apr 22 17:17:43 *	    C=US
+Apr 22 17:17:43 *	    O=Let's Encrypt
+Apr 22 17:17:43 *	    CN=Let's Encrypt Authority X3
+Apr 22 17:17:43 *	  Public key algorithm: rsaEncryption (4096 bits)
+Apr 22 17:17:43 *	  Sign algorithm sha256WithRSAEncryption
+Apr 22 17:17:43 *	  Valid since Apr 22 05:05:47 2019 GM to Jul 21 05:05:47 2019 GM
+Apr 22 17:17:43 *	* Cipher info:
+Apr 22 17:17:43 *	  Version: TLSv1.2, cipher ECDHE-RSA-AES256-GCM-SHA384 (256 bits)
+Apr 22 17:17:43 *	Connected. Now logging in.
+Apr 22 17:17:43 *	*** Looking up your hostname...
+Apr 22 17:17:43 *	*** Checking Ident
+Apr 22 17:17:43 *	*** No Ident response
+Apr 22 17:17:43 *	*** Found your hostname
+Apr 22 17:17:43 *	Capabilities supported: account-notify extended-join identify-msg multi-prefix sasl
+Apr 22 17:17:43 *	Capabilities requested: account-notify extended-join identify-msg multi-prefix sasl 
+Apr 22 17:17:43 *	Capabilities acknowledged: account-notify extended-join identify-msg multi-prefix sasl 
+Apr 22 17:17:43 *	Authenticating via SASL as dbittman (PLAIN)
+Apr 22 17:17:44 *	You are now logged in as dbittman.
+Apr 22 17:17:44 *	SASL authentication successful
+**** ENDING LOGGING AT Mon Apr 22 17:17:44 2019
+
